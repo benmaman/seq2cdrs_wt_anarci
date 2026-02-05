@@ -32,7 +32,6 @@ species    : species name (human, mouse, etc.)
 Example:
 
 chain,sequence,species
-B,CASSLGQDTQYF,human
 A,CAVRDSNYQLIW,human
 
 ------------------------------------------------------------
